@@ -1,5 +1,7 @@
 # Arch Angel Agency and Starcom Logo Repository
 
+[![DOI](https://zenodo.org/badge/1030457771.svg)](https://doi.org/10.5281/zenodo.16706674)
+
 ## Purpose
 This repository contains the logos for Arch Angel Agency and Starcom. The purpose of this repository is to provide a public, open-source declaration of these logos under the **Creative Commons Zero (CC0)** license. By releasing these logos into the public domain, we aim to prevent any attempts at trademarking or copyrighting them, thereby protecting them from being blacklisted, shelved, or misappropriated.
 
